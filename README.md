@@ -13,4 +13,4 @@ client to manage your files in Zoho.Docs
 `Download:`
 [https://github.com/jamesheck2019/Zoho.Docs-Client/releases](https://github.com/jamesheck2019/Zoho.Docs-Client/releases)
 
-![https://i.postimg.cc/0jX49TPq/ure-Wiz151.png](https://i.postimg.cc/0jX49TPq/ure-Wiz151.png)
+![https://i.postimg.cc/BZVLSzHn/ure-Wiz309.png](https://i.postimg.cc/BZVLSzHn/ure-Wiz309.png)
