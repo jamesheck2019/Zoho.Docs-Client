@@ -1,5 +1,5 @@
 # Zoho.Docs-Client
-client to manage your files in Zoho.Docs
+a client to manage your files/folders in "Zoho.Docs" cloud
 
 * software to manage your files in Zoho.Docs
 * copy files folders
