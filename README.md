@@ -1,16 +1,20 @@
-# Zoho.Docs-Client
-a client to manage your files/folders in "Zoho.Docs" cloud
+**Client to manage your files in Zoho.Docs**
 
-* software to manage your files in Zoho.Docs
-* copy files folders
-* move files folders
-* rename files folders
-* delete files folders
-* upload download files folders
+* files folders copy, move, rename, delete, create
+* upload download files folders with progress tracking and cancellation ability 
 * share files folders
-* explor & Download shared folder
+* explore & Download shared folder
+* generate direct file url (hotlinking)
 
 `Download:`
 [https://github.com/jamesheck2019/Zoho.Docs-Client/releases](https://github.com/jamesheck2019/Zoho.Docs-Client/releases)
 
 ![https://i.postimg.cc/BZVLSzHn/ure-Wiz309.png](https://i.postimg.cc/BZVLSzHn/ure-Wiz309.png)
+
+![https://i.postimg.cc/vmv3QJtS/ure-Wiz152.png](https://i.postimg.cc/vmv3QJtS/ure-Wiz152.png)
+
+![https://i.postimg.cc/g2mgfcv6/ure-Wiz153.png](https://i.postimg.cc/g2mgfcv6/ure-Wiz153.png)
+
+![https://i.postimg.cc/qBQq8j1V/ure-Wiz155.png](https://i.postimg.cc/qBQq8j1V/ure-Wiz155.png)
+
+![https://i.postimg.cc/WzJx6Btn/image.png](https://i.postimg.cc/WzJx6Btn/image.png)
